@@ -26,17 +26,17 @@ You can access the dataset through the following link: [Roboflow Dataset](https:
 ![Performance Comparison](https://github.com/TimaAMB/Traffic-Sign-Detection/blob/main/Performance%20Comparison.jpg)
 
 #### YOLOv5 Results
-- **Accuracy**: 94.2%
-- **Recall**: 94.2%
-- **F1 Score**: 97.0%
+- **Precision**: 92.37%
+- **Recall**: 90.85%
+- **F1 Score**: 97.00%
 
 #### YOLOv8 Results
-- **Accuracy**: 95.3%
-- **Recall**: 95.3%
-- **F1 Score**: 97.5%
+- **Precision**: 92.58%
+- **Recall**: 88.00%
+- **F1 Score**: 97.50%
 
 #### VGG16 Results
-- **Accuracy**: 98.68%
+- **Precision**: 100%
 - **Recall**: 98.59%
 - **F1 Score**: 99.29%
 
