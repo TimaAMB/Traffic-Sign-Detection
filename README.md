@@ -5,11 +5,9 @@ This project aims to develop a traffic sign detection system using deep learning
 
 ## Contents
 - [Technologies Used](#technologies-used)
-- [Results](#results)
 - [Data](#data)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
+- [Results](#results)
+- [Error Rates](#error-rates)
 
 ## Technologies Used
 - **YOLOv5**: A popular model for object detection known for its high speed and good accuracy. It utilizes a convolutional neural network (CNN) architecture to effectively identify and locate objects in images.
